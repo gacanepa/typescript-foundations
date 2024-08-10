@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gacanepa/typescript-foundations/issues"
   },
-  "homepage": "https://github.com/gacanepa/typescript-foundations#readme"
+  "homepage": "https://github.com/gacanepa/typescript-foundations#readme",
+  "engines": {
+    "node": ">=20.16.0"
+  }
 }
